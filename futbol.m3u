@@ -1,36 +1,74 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
---> SECCIÓN: SEÑALES ABIERTAS Y OFICIALES <--
-
 #EXTINF:-1 tvg-id="TVPublica" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.svg" group-title="Canales Abiertos",TV Pública (Argentina)
 https://resizer.gloud.tv/v1/watch/live/channels/ch-tv-publica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/DEPORTV.svg" group-title="Canales Abiertos",DeporTV (Argentina)
-https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/video.m3u8
 
 #EXTINF:-1 tvg-id="RTVE" tvg-name="RTVE Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Teledeporte_logo_2020.svg" group-title="Canales Abiertos",Teledeporte (España)
 https://rtve-live-itv.akamaized.net/g/tve_tdp_ic_main.m3u8
 
---> SECCIÓN: MUNDIAL Y DEPORTES PREMIUM (PEGA TUS LINKS AQUÍ) <--
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Premium / Mundial",DSports (Opción 1)
-PON_TU_LINK_AQUÍ
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 2)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TyC_Sports_logo_2019.svg" group-title="Premium / Mundial",TyC Sports HD
-PON_TU_LINK_AQUÍ
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 3)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="ESPN",ESPN HD
-PON_TU_LINK_AQUÍ
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 4)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 5)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 7)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 8)
+http://190.117.20.37:8000/play/a08d/index.m3u
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 9)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 10)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports2" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports 2 HD
+http://190.7.19.197:232/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports HD
+http://190.7.19.197:232/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/DEPORTV.svg" group-title="Deportes",DeporTV
+http://190.7.19.197:232/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/ESPN2_logo.svg" group-title="ESPN",ESPN 2 HD
-PON_TU_LINK_AQUÍ
+http://190.7.19.197:232/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="Pack Fútbol",ESPN Premium HD
-PON_TU_LINK_AQUÍ
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/ESPN3_logo.svg" group-title="ESPN",ESPN 3 HD
+http://190.7.19.197:232/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="ESPN",ESPN 4 HD
+http://190.7.19.197:232/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="ESPN",ESPN HD
+http://190.7.19.197:232/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="Pack Futbol",ESPN Premium HD
+http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Fox_Sports_2_logo.svg" group-title="Fox Sports",Fox Sports 2 HD
+http://190.7.19.197:232/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Fox_Sports_3_logo.svg" group-title="Fox Sports",Fox Sports 3 HD
+http://190.7.19.197:232/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Fox_Sports_logo.svg" group-title="Fox Sports",Fox Sports HD
-PON_TU_LINK_AQUÍ
+http://190.7.19.197:232/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TNT_Sports_Argentina_logo_2021.png" group-title="Pack Fútbol",TNT Sports HD
-PON_TU_LINK_AQUÍ
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TyC_Sports_logo_2019.svg" group-title="Deportes",TyC Sports HD
+http://190.7.19.197:232/play/a04w/index.m3u8
