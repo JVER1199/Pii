@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+--> SECCIÓN: SEÑALES ABIERTAS Y OFICIALES <--
+
+#EXTINF:-1 tvg-id="TVPublica" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.svg" group-title="Canales Abiertos",TV Pública (Argentina)
+https://resizer.gloud.tv/v1/watch/live/channels/ch-tv-publica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/DEPORTV.svg" group-title="Canales Abiertos",DeporTV (Argentina)
+https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/video.m3u8
+
+#EXTINF:-1 tvg-id="RTVE" tvg-name="RTVE Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Teledeporte_logo_2020.svg" group-title="Canales Abiertos",Teledeporte (España)
+https://rtve-live-itv.akamaized.net/g/tve_tdp_ic_main.m3u8
+
+--> SECCIÓN: MUNDIAL Y DEPORTES PREMIUM (PEGA TUS LINKS AQUÍ) <--
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Premium / Mundial",DSports (Opción 1)
+PON_TU_LINK_AQUÍ
+
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TyC_Sports_logo_2019.svg" group-title="Premium / Mundial",TyC Sports HD
+PON_TU_LINK_AQUÍ
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="ESPN",ESPN HD
+PON_TU_LINK_AQUÍ
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/ESPN2_logo.svg" group-title="ESPN",ESPN 2 HD
+PON_TU_LINK_AQUÍ
+
+#EXTINF:-1 tvg-id="ESPNPremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg" group-title="Pack Fútbol",ESPN Premium HD
+PON_TU_LINK_AQUÍ
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Fox_Sports_logo.svg" group-title="Fox Sports",Fox Sports HD
+PON_TU_LINK_AQUÍ
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TNT_Sports_Argentina_logo_2021.png" group-title="Pack Fútbol",TNT Sports HD
+PON_TU_LINK_AQUÍ
